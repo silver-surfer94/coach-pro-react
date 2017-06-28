@@ -4,3 +4,4 @@ This app allows you to manage different tasks in a team and assign them to team 
 
 It uses a Firebase backend to manage user credentials, React-Router, Redux for state management and Bootstrap. 
 
+[Check it out!](https://silver-surfer94.github.io/coach-pro-react/)
